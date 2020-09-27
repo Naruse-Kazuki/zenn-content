@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Naruse-Kazuki/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.34"
+    "zenn-cli": "^0.1.38"
   }
 }
