@@ -3,7 +3,7 @@ title: "Nuxtにマークダウンエディタを埋め込む"
 emoji: "🌊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nuxt.js","Markdouwn"]
-published: false
+published: true
 ---
 
 [vue-simplemde](https://github.com/F-loat/vue-simplemde) 
